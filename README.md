@@ -13,5 +13,5 @@ To-Do List:
 1. Add a toggle.
 2. Add a customizable item use delay.
 
-Made by: Beadu
+Made by: Beadu\
 I am not responsible for any actions this mod was used for, good or bad as they may be.
