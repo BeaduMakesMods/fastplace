@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "beadu.mm.fastplace_extras.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "MinecraftClientAccessor",
+    "MinecraftClientInvoker"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

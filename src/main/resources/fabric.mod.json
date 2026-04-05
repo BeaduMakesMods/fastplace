@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "fastplace_extras",
+  "version": "2.1.2-extras",
+  "name": "FastPlace Extras",
+  "description": "Makin' ya build fast! + Extras features! Icon made by fjstudio from www.flaticon.com",
+  "authors": ["Beadu"],
+  "contact": {
+    "discord": "https://discord.gg/uhym58gTpM",
+    "source": "https://github.com/BeaduMakesMods/fastplace"
+  },
+  "license": "MIT",
+  "icon": "assets/fastplace_extras/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "beadu.mm.fastplace_extras.FastPlace"
+    ]
+  },
+  "mixins": [
+    "mixins.fastplace_extras.json"
+  ],
+  "depends": {
+    "fabricloader": "0.18.4",
+    "fabric-api": "*",
+    "minecraft": "1.21.10"
+  }
+}
